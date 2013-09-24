@@ -1,0 +1,3 @@
+Content\racketicon.xnb
+Content\tux_droid.xnb
+Content\logo.xnb

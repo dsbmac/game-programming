@@ -1,0 +1,9 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\bin\x86\Debug\Content\racketicon.xnb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\bin\x86\Debug\Content\tux_droid.xnb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\bin\x86\Debug\Content\logo.xnb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\bin\x86\Debug\Lab5.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\bin\x86\Debug\Lab5.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.pdb
