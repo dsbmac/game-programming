@@ -1,0 +1,8 @@
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab3\bin\Release\Lab3.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab3\bin\Release\Lab3.pdb
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab3\obj\x86\Release\Lab3.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab3\obj\x86\Release\Lab3.pdb
+C:\Users\Denis\documents\visual studio 2010\Projects\Lab3\Lab3\obj\x86\Release\Lab3.exe
+C:\Users\Denis\documents\visual studio 2010\Projects\Lab3\Lab3\obj\x86\Release\Lab3.pdb
+C:\Users\Denis\documents\visual studio 2010\Projects\Lab3\Lab3\bin\Release\Lab3.exe
+C:\Users\Denis\documents\visual studio 2010\Projects\Lab3\Lab3\bin\Release\Lab3.pdb

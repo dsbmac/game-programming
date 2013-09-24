@@ -1,0 +1,4 @@
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab1\bin\Release\Lab1.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab1\bin\Release\Lab1.pdb
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab1\obj\x86\Release\Lab1.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\Lab1\obj\x86\Release\Lab1.pdb

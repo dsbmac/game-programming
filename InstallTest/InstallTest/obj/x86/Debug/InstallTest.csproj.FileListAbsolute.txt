@@ -1,0 +1,9 @@
+C:\Users\Denis\AppData\Local\Temporary Projects\InstallTest\bin\Debug\InstallTest.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\InstallTest\bin\Debug\InstallTest.pdb
+C:\Users\Denis\AppData\Local\Temporary Projects\InstallTest\obj\x86\Debug\InstallTest.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\InstallTest\obj\x86\Debug\InstallTest.pdb
+C:\Users\Denis\documents\visual studio 2010\Projects\InstallTest\InstallTest\obj\x86\Debug\InstallTest.exe
+C:\Users\Denis\documents\visual studio 2010\Projects\InstallTest\InstallTest\obj\x86\Debug\InstallTest.pdb
+C:\Users\Denis\documents\visual studio 2010\Projects\InstallTest\InstallTest\bin\Debug\InstallTest.exe
+C:\Users\Denis\documents\visual studio 2010\Projects\InstallTest\InstallTest\bin\Debug\InstallTest.pdb
+C:\Users\Denis\documents\visual studio 2010\Projects\InstallTest\InstallTest\obj\x86\Debug\InstallTest.csprojResolveAssemblyReference.cache
