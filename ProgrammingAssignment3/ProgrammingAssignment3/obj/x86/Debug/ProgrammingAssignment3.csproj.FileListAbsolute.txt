@@ -1,0 +1,5 @@
+C:\Users\Denis\AppData\Local\Temporary Projects\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.pdb
+C:\Users\Denis\AppData\Local\Temporary Projects\ProgrammingAssignment3\bin\Debug\ConsoleCards.dll
+C:\Users\Denis\AppData\Local\Temporary Projects\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
